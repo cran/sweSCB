@@ -4,6 +4,6 @@
 \alias{sweSCB-package}
 \title{sweSCB}
 \description{
-A package for interfacing with the API of Statistics Sweden
+  Interface to the API of Statistics Sweden.
 }
 
