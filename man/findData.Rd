@@ -2,7 +2,7 @@
 \alias{findData}
 \title{Find and download data from SCB}
 \usage{
-  findData(history = FALSE, ...)
+findData(history = FALSE, ...)
 }
 \arguments{
   \item{history}{keep the history when the function is
@@ -12,16 +12,16 @@
   ignored.}
 }
 \description{
-  Wrapper function (for \link{scbGetData} and
-  \link{scbGetMetadata}) to simply find and download data
-  from SCB to the current R session.
+Wrapper function (for \link{scbGetData} and
+\link{scbGetMetadata}) to simply find and download data
+from SCB to the current R session.
 }
 \examples{
 \dontrun{
-myDownloadedData <- findData()
+findData()
 }
 }
 \seealso{
-  \code{\link{scbGetMetadata}}, \code{\link{scbGetData}}
+\code{\link{scbGetMetadata}}, \code{\link{scbGetData}}
 }
 

@@ -2,8 +2,8 @@
 \alias{scbGetMetadata}
 \title{Get data}
 \usage{
-  scbGetMetadata(path = NULL, node = NULL, topnodes = NULL,
-    quiet = TRUE, ...)
+scbGetMetadata(path = NULL, node = NULL, topnodes = NULL, quiet = TRUE,
+  ...)
 }
 \arguments{
   \item{path}{URL to fetch metadata from. If left empty,
@@ -23,8 +23,8 @@
   \item{...}{Further arguments passed to \code{baseURL()}.}
 }
 \description{
-  Get data from the API. If at the lowest node, provide the
-  user with a friendly message about this.
+Get data from the API. If at the lowest node, provide the
+user with a friendly message about this.
 }
 \examples{
 # Define variable name
