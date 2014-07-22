@@ -1,14 +1,14 @@
-6ffee670191fed39b0bca03657d9bb55 *DESCRIPTION
+efbcb88a4ddd6c873b4da821f5a95d41 *DESCRIPTION
 a8ac426fe1859d3e97b5e644739945de *NAMESPACE
 4edc205c2caa512150ad13aaa92fd10b *R/constants.R
 bd38064fcb3948b7cdcaf39f448d3acd *R/findData.R
-ab8db6eb4855fb9e36417e5c592c9e2d *R/getData.R
+878ff43e3cc15a12063b41f71a3f1128 *R/getData.R
 3c3b5024b51f477eee8535128e883eb0 *R/getDims.R
 9752a0f5037c02430c57765c18664aab *R/getLevels.R
 692056dd83c22cf9387fb052b3c5aa62 *R/getMetadata.R
 d99d3685465501906a003a948fdf4777 *R/scbUtils.R
 80c26c08a7a46ce9d3ba4a1dd2d5e418 *R/sweSCB.R
-ca1f52b7efa4bb76177969013030530a *README.md
+24ff554c6b40688e9f5abdf687ea24dc *README.md
 dda008d5c8e33b6db8cabef5d6b1cb55 *inst/examples/ex_data_mining.R
 aab3aa4ff3e7b402f2c177cb1c37e7d1 *inst/examples/ex_dimension_mining.R
 f8519007746c78d77937dd227cee46b6 *inst/examples/ex_get_data.R
